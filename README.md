@@ -1,1 +1,2 @@
-# in build components are build just cop and past the code
+# in build components are build 
+copy and past
